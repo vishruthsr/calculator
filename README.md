@@ -1,2 +1,2 @@
-# mediaplayer
-media player application
+# calculator
+calculator application
